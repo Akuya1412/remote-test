@@ -1,1 +1,18 @@
 test
+Dim param-
+set param = WScr ipt. Atguments
+Set CDOM = Create0bject("CDO. Message)
+CDOM. From =
+"repositorv/admin@bodev.local//CDOM.To="a|Tceti0oUhyou@bcdev.dca]7 cDoM. Subject= param(0)4
+CDOM. TextBody = param(1)
+CDOM. Configuration. Fields. Item
+"http://schemas.microsoft.coli/cco/ confi guration/sendusing")= 24
+CDOM. Configuration. Fields. Item
+("httg://schemas.microsoft.com/cdo/confimu.rat/on/smtpserver
+“172.25.214.101”
+CDOM. Configuration. Fields.Item
+(tttp:/Zschemas. microsofe. cor/edo/coniucauion snnse veroott") F 254
+CDOM. Configuration. Fie ds. Update
+CDOM. Sende
+Set CDOM = Nothing
+22行
